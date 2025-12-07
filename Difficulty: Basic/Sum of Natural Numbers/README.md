@@ -1,0 +1,9 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/sum-of-series2811/1?page=3&sortBy=submissions">Sum of Natural Numbers</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO"><p><span style="font-size: 14pt;"><span style="color: #1e2229; font-family: Nunito; background-color: #ffffff;"><span style="color: #000000; font-family: -apple-system, 'system-ui', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size: 18px;">Given an integer <strong>n.</strong> Your task is to calculate the <strong>sum</strong> of all natural numbers from 1 up to n (inclusive). </span></span></span><span style="font-size: 14pt;"><span style="color: #1e2229; font-family: Nunito; background-color: #ffffff;"><span style="color: #000000; font-family: -apple-system, 'system-ui', 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size: 18px;">If n is 0, the sum should be 0.</span></span></span></p>
+<p><span style="font-size: 14pt;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 14pt;"><strong>Input: </strong>n = 3
+<strong>Output:</strong> 6
+<strong>Explanation:</strong> The numbers from 1 to 3 are 1, 2, and 3. Their sum is 1 + 2 + 3 = 6.</span></pre>
+<pre><span style="font-size: 14pt;"><strong>Input: </strong>n = 5
+<strong>Output:</strong> 15
+<strong>Explanation:</strong> The numbers from 1 to 5 are 1, 2, 3, 4, and 5. Their sum is 1 + 2 + 3 + 4 + 5 = 15.</span></pre>
+<p><span style="font-size: 14pt;"><strong>Constraints:</strong><br>1 ≤ n ≤ 10<sup>4</sup></span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Mathematical</code>&nbsp;
